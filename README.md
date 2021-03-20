@@ -14,7 +14,7 @@
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
 [![Bulma](https://img.shields.io/badge/-Bulma-f9fbfa?logo=bulma&style=for-the-badge)](https://bulma.io/)
-[![Material-UI](https://img.shields.io/badge/-materialui-f9fbfa?logo=Material-UI&style=for-the-badge)](https://materializecss.com/)
+[![Material-UI](https://img.shields.io/badge/-materialui-1572B6?logo=Material-UI&style=for-the-badge)](https://materializecss.com/)
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
