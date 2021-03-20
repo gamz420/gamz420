@@ -17,6 +17,7 @@
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
 
 
 <!--
