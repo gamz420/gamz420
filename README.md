@@ -6,8 +6,6 @@
 
 ![CodeWars](https://www.codewars.com/users/gamz420/badges/large)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 
 
 ### Стэк технологий который я использовал
@@ -32,6 +30,7 @@
 **IvanSosnovich/IvanSosnovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 Here are some ideas to get you started:
 
