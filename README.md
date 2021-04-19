@@ -6,6 +6,8 @@
 
 ![CodeWars](https://www.codewars.com/users/gamz420/badges/large)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 
 ### Стэк технологий который я использовал
