@@ -15,7 +15,7 @@
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
 [![Bulma](https://img.shields.io/badge/-Bulma-f9fbfa?logo=bulma&style=for-the-badge)](https://bulma.io/)
-[![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
+[![JavaScript](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
 [![Material-UI](https://img.shields.io/badge/-materialui-1572B6?logo=Material-UI&style=for-the-badge)](https://material-ui.com/ru/)
@@ -25,6 +25,7 @@
 [![PassportJS](https://img.shields.io/badge/-Passport.js-000000?logo=passportjs&style=for-the-badge)](http://www.passportjs.org/)
 [![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=websocket&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSocket)
 [![Heroku](https://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badge)](https://www.heroku.com/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-431490?logo=visualstudiocode&style=for-the-badge)](https://code.visualstudio.com/)
 
 
 <!--
