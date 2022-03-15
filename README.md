@@ -25,7 +25,7 @@
 [![PassportJS](https://img.shields.io/badge/-Passport.js-000000?logo=passportjs&style=for-the-badge)](http://www.passportjs.org/)
 [![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=websocket&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSocket)
 [![Heroku](https://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badge)](https://www.heroku.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-431490?logo=visualstudiocode&style=for-the-badge)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visualstudiocode&style=for-the-badge)](https://code.visualstudio.com/)
 
 
 <!--
