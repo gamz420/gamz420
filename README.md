@@ -11,7 +11,7 @@
 
 ### Стэк технологий который я использовал
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visualstudiocode&style=for-the-badge)](https://code.visualstudio.com/)
-[![ESlint](https://img.shields.io/badge/-ESlint-#4B32C3?logo=eslint&style=for-the-badge)](https://eslint.org/)
+[![ESlint](https://img.shields.io/badge/-ESlint-4B32C3?logo=eslint&style=for-the-badge)](https://eslint.org/)
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
 [![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
