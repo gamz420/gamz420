@@ -2,7 +2,7 @@
 <!-- - 🔭 Я в поиске интересных предложений -->
 - 📫 Моя почта: gamzalievgamz@gmail.com
 - 📱 Мой телеграмм: https://t.me/gamzalievgamz
-<-- - 💻 Мой сайт: https://gamzaliev.herokuapp.com -->
+<!-- - 💻 Мой сайт: https://gamzaliev.herokuapp.com -->
 
 
 ![CodeWars](https://www.codewars.com/users/gamz420/badges/large)
