@@ -32,6 +32,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=fff)](https://www.docker.com/)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&style=for-the-badge&logoColor=fff)](https://jestjs.io/ru/)
 [![Material-UI](https://img.shields.io/badge/-materialui-1572B6?logo=mui&style=for-the-badge&logoColor=fff)](https://material-ui.com/ru/)
+[![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&style=for-the-badge&logoColor=fff)](https://storybook.js.org/)
 [![Three.js](https://shields.io/badge/-Three.js-000000?logo=threedotjs&style=for-the-badge)](https://threejs.org/)
 [![React Three Fiber](https://shields.io/badge/-React_Three_Fiber-f9fbfa?logo=reactthreefiber&style=for-the-badge)](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction/)
 [![Agile](https://shields.io/badge/-Agile-fff?logo=agile&style=for-the-badge)](https://www.atlassian.com/ru/agile)
