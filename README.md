@@ -9,7 +9,7 @@
 
 
 
-### Стэк технологий который я использовал
+### Technology stack I used
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visualstudiocode&style=for-the-badge)](https://code.visualstudio.com/)
 [![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&style=for-the-badge)](https://www.jetbrains.com/ru-ru/webstorm/)
 [![ESlint](https://img.shields.io/badge/-ESlint-4B32C3?logo=eslint&style=for-the-badge)](https://eslint.org/)
