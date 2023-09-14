@@ -24,7 +24,7 @@
 [![RegExp](https://shields.io/badge/-RegExp-fff?logo=regexp&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
-[![Material-UI](https://img.shields.io/badge/-materialui-1572B6?logo=mui&style=for-the-badge)](https://material-ui.com/ru/)
+[![Material-UI](https://img.shields.io/badge/-materialui-1572B6?logo=mui&style=for-the-badge&logoColor=fff)](https://material-ui.com/ru/)
 [![Three.js](https://shields.io/badge/-Three.js-000000?logo=threedotjs&style=for-the-badge)](https://threejs.org/)
 [![React Three Fiber](https://shields.io/badge/-React_Three_Fiber-f9fbfa?logo=reactthreefiber&style=for-the-badge)](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction/)
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
