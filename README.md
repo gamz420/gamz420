@@ -13,7 +13,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visualstudiocode&style=for-the-badge)](https://code.visualstudio.com/)
 [![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&style=for-the-badge)](https://www.jetbrains.com/ru-ru/webstorm/)
 [![ESlint](https://img.shields.io/badge/-ESlint-4B32C3?logo=eslint&style=for-the-badge)](https://eslint.org/)
-[![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&style=for-the-badge&logoColor=fff)](https://prettier.io/)
+[![Prettier](https://img.shields.io/badge/-Prettier-1a2b34?logo=prettier&style=for-the-badge&logoColor=fff)](https://prettier.io/)
 [![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
 [![Sass](https://shields.io/badge/-Sass-CC6699?logo=sass&style=for-the-badge&logoColor=fff)](https://sass-scss.ru/)
