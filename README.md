@@ -7,7 +7,7 @@
 <img src="https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif" style="width: 500px" /> 
 <img src="https://media.tenor.com/9Pn19IB5kYcAAAAC/hacking-computer-screen.gif" style="width: 500px" /> 
 <img src="https://i.imgur.com/Gj3MtZq.gif" /> -->
-<img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" />
+<img src="https://i.imgur.com/Gj3MtZq.gif" />
 
 ### Hello 👋 my name is Gamzat and I am a Web developer
 <!-- - 🔭 Я в поиске интересных предложений -->
@@ -17,52 +17,6 @@
 
 
 ![CodeWars](https://www.codewars.com/users/gamz420/badges/large)
-
-
-
-
-
-<!-- ### Technology stack I used
-[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-1cf899?logo=visualstudiocode&style=for-the-badge&logoColor=16241c&color=16241c)](https://code.visualstudio.com/)
-[![WebStorm](https://img.shields.io/badge/-WebStorm-1cf899?logo=webstorm&style=for-the-badge&logoColor=16241c)](https://www.jetbrains.com/ru-ru/webstorm/)
-[![ESlint](https://img.shields.io/badge/-ESlint-1cf899?logo=eslint&style=for-the-badge&logoColor=16241c)](https://eslint.org/)
-[![Prettier](https://img.shields.io/badge/-Prettier-1cf899?logo=prettier&style=for-the-badge&logoColor=16241c)](https://prettier.io/)
-[![HTML](https://shields.io/badge/-HTML5-1cf899?logo=html5&style=for-the-badge&logoColor=16241c)](https://html5book.ru/html-html5/)
-[![CSS](https://shields.io/badge/-CSS3-1cf899?logo=css3&style=for-the-badge&logoColor=16241c)](https://html5book.ru/osnovy-css/)
-[![Sass](https://shields.io/badge/-Sass-1cf899?logo=sass&style=for-the-badge&logoColor=16241c)](https://sass-scss.ru/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-1cf899?logo=bootstrap&style=for-the-badge&logoColor=16241c)](https://getbootstrap.com/)
-[![Bulma](https://img.shields.io/badge/-Bulma-1cf899?logo=bulma&style=for-the-badge&logoColor=16241c)](https://bulma.io/)
-[![JavaScript](https://shields.io/badge/-JavaScript-1cf899?logo=javascript&style=for-the-badge&logoColor=16241c)](https://learn.javascript.ru/)
-[![Git](https://shields.io/badge/-Git-1cf899?logo=git&style=for-the-badge&logoColor=16241c)](https://git-scm.com/)
-[![RegExp](https://shields.io/badge/-RegExp-1cf899?logo=regexp&style=for-the-badge&logoColor=16241c)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
-[![npm](https://shields.io/badge/-npm-1cf899?logo=npm&style=for-the-badge&logoColor=16241c)](https://www.npmjs.com/)
-[![Yarn](https://shields.io/badge/-Yarn-1cf899?logo=yarn&style=for-the-badge&logoColor=16241c)](https://yarnpkg.com/)
-[![React](https://shields.io/badge/-React-1cf899?logo=react&style=for-the-badge&logoColor=16241c)](https://reactjs.org/)
-[![Redux](https://shields.io/badge/-Redux-1cf899?logo=redux&style=for-the-badge&logoColor=16241c)](https://redux.js.org/)
-[![Redux-Saga](https://shields.io/badge/-Redux_Saga-1cf899?logo=reduxsaga&style=for-the-badge&logoColor=16241c)](https://redux-saga.js.org/)
-[![TypeScript](https://shields.io/badge/-TypeScript-1cf899?logo=typescript&style=for-the-badge&logoColor=16241c)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-1cf899?logo=nextdotjs&style=for-the-badge&logoColor=16241c)](https://nextjs.org/)
-[![Docker](https://img.shields.io/badge/-Docker-1cf899?logo=docker&style=for-the-badge&logoColor=16241c)](https://www.docker.com/)
-[![Jest](https://img.shields.io/badge/-Jest-1cf899?logo=jest&style=for-the-badge&logoColor=16241c)](https://jestjs.io/ru/)
-[![Material-UI](https://img.shields.io/badge/-materialui-1cf899?logo=mui&style=for-the-badge&logoColor=16241c)](https://material-ui.com/ru/)
-[![Storybook](https://img.shields.io/badge/-Storybook-1cf899?logo=storybook&style=for-the-badge&logoColor=16241c)](https://storybook.js.org/)
-[![Three.js](https://shields.io/badge/-Three.js-1cf899?logo=threedotjs&style=for-the-badge&logoColor=16241c)](https://threejs.org/)
-[![React Three Fiber](https://shields.io/badge/-React_Three_Fiber-1cf899?logo=reactthreefiber&style=for-the-badge&logoColor=16241c)](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction/)
-[![Agile](https://shields.io/badge/-Agile-1cf899?logo=agile&style=for-the-badge&logoColor=16241c)](https://www.atlassian.com/ru/agile)
-[![Scrum](https://shields.io/badge/-Scrum-1cf899?logo=scrum&style=for-the-badge&logoColor=16241c)](https://www.atlassian.com/ru/agile/scrum)
-[![Kanban](https://shields.io/badge/-Kanban-1cf899?logo=kanban&style=for-the-badge&logoColor=16241c)](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B1%D0%B0%D0%BD)
-[![Jira](https://shields.io/badge/-Jira-1cf899?logo=jira&style=for-the-badge&logoColor=16241c)](https://www.atlassian.com/ru/software/jira)
-[![Node](https://shields.io/badge/-Node-1cf899?logo=node.js&style=for-the-badge&logoColor=16241c)](https://nodejs.org/en/)
-[![ExpressJS](https://img.shields.io/badge/-Express.js-1cf899?logo=express&style=for-the-badge&logoColor=16241c)](https://expressjs.com/ru/)
-[![MongoDB](https://shields.io/badge/-MongoDB-1cf899?logo=MongoDB&style=for-the-badge&logoColor=16241c)](https://www.mongodb.com/)
-[![WebSocket](https://img.shields.io/badge/-WebSocket-1cf899?logo=websocket&style=for-the-badge&logoColor=16241c)](https://developer.mozilla.org/ru/docs/Web/API/WebSocket)
-[![PassportJS](https://img.shields.io/badge/-Passport-1cf899?logo=passport&style=for-the-badge&logoColor=16241c)](http://www.passportjs.org/)
-[![Heroku](https://img.shields.io/badge/-Heroku-1cf899?logo=heroku&style=for-the-badge&logoColor=16241c)](https://www.heroku.com/)
-[![Linux](https://img.shields.io/badge/-Linux-1cf899?logo=linux&style=for-the-badge&logoColor=16241c)](https://www.linux.org/)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-1cf899?logo=ubuntu&style=for-the-badge&logoColor=16241c)](https://ubuntu.com/)
-[![Windows](https://img.shields.io/badge/-Windows-1cf899?logo=windows&style=for-the-badge&logoColor=16241c)](https://support.microsoft.com/ru-ru/windows)
-[![macOS](https://img.shields.io/badge/-macOS-1cf899?logo=macos&style=for-the-badge&logoColor=16241c)](https://www.apple.com/ru/macos/monterey/)
-[![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1cf899?logo=adobephotoshop&style=for-the-badge&logoColor=16241c)](https://www.adobe.com/ru/products/photoshop.html) -->
 
  ### Technology stack I used
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visualstudiocode&style=for-the-badge)](https://code.visualstudio.com/)
@@ -105,8 +59,6 @@
 [![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&style=for-the-badge)](https://support.microsoft.com/ru-ru/windows)
 [![macOS](https://img.shields.io/badge/-macOS-000000?logo=macos&style=for-the-badge)](https://www.apple.com/ru/macos/monterey/)
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?logo=adobephotoshop&style=for-the-badge&logoColor=fff)](https://www.adobe.com/ru/products/photoshop.html) 
-
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
