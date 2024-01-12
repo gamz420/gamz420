@@ -7,7 +7,7 @@
 <img src="https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif" style="width: 500px" /> 
 <img src="https://media.tenor.com/9Pn19IB5kYcAAAAC/hacking-computer-screen.gif" style="width: 500px" /> 
 <img src="https://i.imgur.com/Gj3MtZq.gif" /> -->
-<img src="https://i.imgur.com/Gj3MtZq.gif" />
+<img src="https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif" />
 
 ### Hello 👋 my name is Gamzat and I am a Web developer
 <!-- - 🔭 Я в поиске интересных предложений -->
