@@ -27,6 +27,7 @@
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
 [![БЭМ](https://shields.io/badge/-%D0%91%D0%AD%D0%9C-18a0e6?logo=bem&style=for-the-badge&logoColor=fff)](https://ru.bem.info/methodology/)
 [![Sass](https://shields.io/badge/-Sass-CC6699?logo=sass&style=for-the-badge&logoColor=fff)](https://sass-scss.ru/)
+[![LESS](https://shields.io/badge/-LESS-1e365c?logo=less&style=for-the-badge&logoColor=fff)](https://lesscss.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
 [![Bulma](https://img.shields.io/badge/-Bulma-f9fbfa?logo=bulma&style=for-the-badge)](https://bulma.io/)
 [![JavaScript](https://shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
