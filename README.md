@@ -25,6 +25,7 @@
 [![Prettier](https://img.shields.io/badge/-Prettier-1a2b34?logo=prettier&style=for-the-badge&logoColor=fff)](https://prettier.io/)
 [![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
+[![БЭМ](https://shields.io/badge/-%D0%91%D0%AD%D0%9C-18a0e6?logo=bem&style=for-the-badge&logoColor=fff)](https://ru.bem.info/methodology/)
 [![Sass](https://shields.io/badge/-Sass-CC6699?logo=sass&style=for-the-badge&logoColor=fff)](https://sass-scss.ru/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
 [![Bulma](https://img.shields.io/badge/-Bulma-f9fbfa?logo=bulma&style=for-the-badge)](https://bulma.io/)
