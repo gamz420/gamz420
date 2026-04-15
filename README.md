@@ -30,6 +30,8 @@
 [![LESS](https://shields.io/badge/-LESS-1e365c?logo=less&style=for-the-badge&logoColor=fff)](https://lesscss.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
 [![Bulma](https://img.shields.io/badge/-Bulma-f9fbfa?logo=bulma&style=for-the-badge)](https://bulma.io/)
+[![Materialize](https://img.shields.io/badge/-Materialize-ee6f71?logo=materialize&style=for-the-badge)](https://materializecss.com/)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-00bdff?logo=tailwindcss&style=for-the-badge&logoColor=fff)](https://tailwindcss.com/)
 [![JavaScript](https://shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
 [![RegExp](https://shields.io/badge/-RegExp-fff?logo=regexp&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
